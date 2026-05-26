@@ -1,0 +1,6 @@
+{
+  "name": "Sync Translator",
+  "description": "Real-time voice and text translation app with support for multiple languages and voice input.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
